@@ -1,6 +1,6 @@
-# Array Lab: Create, Retrieve, Update, Delete
-
-## Overview
+def create_an_empty_array
+[ ]
+end
 
 In this lab, you will create arrays, add data to arrays, remove data from arrays and retrieve data from arrays.
 
