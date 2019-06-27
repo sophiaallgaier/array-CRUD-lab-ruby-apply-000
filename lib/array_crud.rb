@@ -8,6 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   a = [4,5,6,7]
+  puts a.shift 
 end
 
 def add_element_to_start_of_array(array, element)
