@@ -15,15 +15,15 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  #pop
+  [4,5,6,7#pop]
 end
 
 def remove_element_from_start_of_array(array)
-  #shift
+  [4,5,6,7#shift]
 end
 
 def retrieve_element_from_index(array, index_number)
-  [ ]
+  
 end
 
 def retrieve_first_element_from_array(array)
